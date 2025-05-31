@@ -9,7 +9,6 @@ A Python script that monitors Pokémon Center products for stock availability an
 - ⚙️ **Customizable** - Configure any Pokémon Center product URL
 - 🕐 **Flexible Timing** - Set custom check intervals
 - 🛡️ **Robust** - Handles network errors and continues monitoring
-- 🔒 **Secure** - Uses environment variables for sensitive data
 
 ## 🚀 Quick Start
 
